@@ -1,23 +1,30 @@
-# 👋 Olá Fefer! Esse é o meu fork para o seu README. Aqui deve ficar o título de introdução! ("Olá visitantes!") 😀
+# 🌟 Olá, Visitante! Eu sou a Fernanda 👋
 
-**Aqui você deve resumir tudo o que tem no seu README de uma forma rápida. Apresente-se e diga um pouco sobre você fefer!**
-
----
-
-## Um pouco sobre você
-**Aqui você vai detalhar quem você é. Você tem algumas opções: colocar o que você gosta de fazer, falar sobre suas qualidades e o que mais você quiser!**
-
-- Assim faz uma lista, utilizando o "-"
-- Você pode colocar emojis no README 🤝
+**Bem-vindo ao meu espaço!**
+**Aqui você vai conhecer um pouco sobre mim, minhas habilidades, interesses e redes sociais. 🎉 Você vai encontrar um pouco sobre o que eu gosto de fazer e o que eu faço no meu dia a dia.**
 
 ---
 
-## Seus interesses em programação
-**Aqui já é mais intuitivo. Fale o motivo de você programar!**
+## ✨ Um Pouco Sobre Mim
+**🖤 Prefiro que me chamem de Fer;**
+**🎂 Tenho 17 anos;**
+**💻 Sou estudante de Desenvolvimento de Sistemas no SENAI Valinhos;**
+**🎮 Adoro jogar com meus amigos nos momentos livres;**
+**🎵 Sou apaixonada por música – ela sempre me acompanha!;**
+**🍳 Amo cozinhar e testar receitas novas;**
 
 ---
 
-## ⚙️ Suas linguagens e ferramentas - Deixei igual ao meu, pois temos praticamente os mesmos conhecimentos
+## 📚 Seus Interesses em Programação
+**Ainda estou descobrindo o que mais gosto de fazer, mas até agora:**
+
+**🌐 Gosto de trabalhar tanto com Front-end quanto com Back-end, mas sinto que tenho mais afinidade e facilidade com o Front-end;**
+**🎨 Design de interfaces é algo que me chama muito a atenção – adoro criar layouts bonitos e funcionais;**
+**🚀 Estou animada para aprender mais sobre frameworks modernos como React e explorar novas tecnologias!**
+
+---
+
+## ⚙️ Suas linguagens e ferramentas
 
 ### 🌐 Front-End
 <div style="display: inline_block"><br>
@@ -45,24 +52,29 @@
 
 ## 💼 Suas habilidades
 Minhas principais habilidades:
-**Fale as suas habilidades aqui Fefer! Manda bala pois você é D++++**
+**🌐 HTML, CSS e JavaScript;**
+**🎨 Criação de interfaces bonitas e funcionais;**
+**🛠 Introdução ao Front-end, Back-end e Banco de Dados;**
+**🔧 Git e GitHub para versionamento de código;**
+**📅 Metodologias ágeis como Scrum e Kanban;**
+**🌟 Trabalho em equipe, criatividade e resolução de problemas.**
 
 ---
 
-## 🌐 Minhas redes - Coloque os links das suas redes onde está a "#" (você pode pesquisar por ícones de outras redes se quiser)
+## 🌐 Minhas redes
 <div> 
-  <a href="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="fernandaalveslouro0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/fernanda-alves-louro-386966320" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/fer.nandaalvez_/profilecard/?igsh=YTVtdWVlNXhwMnA2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
 <h2 align="center">📊 Estátisticas GitHub 📉</h2> 
 
-**Aqui eu só consegui achar essa :( e não consegui estilizar direito, se eu conseguir achar o site onde faz eu te passo**
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F3rNnd4)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## **💬 Vamos crescer juntos! Pois assim somos mais fortes!** 🚀
+## 💌 "A vida é um aprendizado constante, e estou sempre pronta para evoluir!"
+**Obrigada por visitar o meu README. 💕 Fique à vontade para explorar e entrar em contato comigo!** 😊
