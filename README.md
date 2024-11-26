@@ -1,26 +1,26 @@
 # 🌟 Olá, Visitante! Eu sou a Fernanda 👋
 
 **Bem-vindo ao meu espaço!**
-**Aqui você vai conhecer um pouco sobre mim, minhas habilidades, interesses e redes sociais. 🎉 Você vai encontrar um pouco sobre o que eu gosto de fazer e o que eu faço no meu dia a dia.**
+Aqui você vai conhecer um pouco sobre mim, minhas habilidades, interesses e redes sociais. 🎉 Você vai encontrar um pouco sobre o que eu gosto de fazer e o que eu faço no meu dia a dia.
 
 ---
 
 ## ✨ Um Pouco Sobre Mim
-**🖤 Prefiro que me chamem de Fer;**
-**🎂 Tenho 17 anos;**
-**💻 Sou estudante de Desenvolvimento de Sistemas no SENAI Valinhos;**
-**🎮 Adoro jogar com meus amigos nos momentos livres;**
-**🎵 Sou apaixonada por música – ela sempre me acompanha!;**
-**🍳 Amo cozinhar e testar receitas novas;**
+**- 🖤 Prefiro que me chamem de Fer;**
+**- 🎂 Tenho 17 anos;**
+**- 💻 Sou estudante de Desenvolvimento de Sistemas no SENAI Valinhos;**
+**- 🎮 Adoro jogar com meus amigos nos momentos livres;**
+**- 🎵 Sou apaixonada por música – ela sempre me acompanha!;**
+**- 🍳 Amo cozinhar e testar receitas novas;**
 
 ---
 
 ## 📚 Seus Interesses em Programação
-**Ainda estou descobrindo o que mais gosto de fazer, mas até agora:**
+Ainda estou descobrindo o que mais gosto de fazer, mas até agora:
 
-**🌐 Gosto de trabalhar tanto com Front-end quanto com Back-end, mas sinto que tenho mais afinidade e facilidade com o Front-end;**
-**🎨 Design de interfaces é algo que me chama muito a atenção – adoro criar layouts bonitos e funcionais;**
-**🚀 Estou animada para aprender mais sobre frameworks modernos como React e explorar novas tecnologias!**
+**- 🌐 Gosto de trabalhar tanto com Front-end quanto com Back-end, mas sinto que tenho mais afinidade e facilidade com o Front-end;**
+**- 🎨 Design de interfaces é algo que me chama muito a atenção – adoro criar layouts bonitos e funcionais;**
+**- 🚀 Estou animada para aprender mais sobre frameworks modernos como React e explorar novas tecnologias!**
 
 ---
 
@@ -52,12 +52,12 @@
 
 ## 💼 Suas habilidades
 Minhas principais habilidades:
-**🌐 HTML, CSS e JavaScript;**
-**🎨 Criação de interfaces bonitas e funcionais;**
-**🛠 Introdução ao Front-end, Back-end e Banco de Dados;**
-**🔧 Git e GitHub para versionamento de código;**
-**📅 Metodologias ágeis como Scrum e Kanban;**
-**🌟 Trabalho em equipe, criatividade e resolução de problemas.**
+**- 🌐 HTML, CSS e JavaScript;**
+**- 🎨 Criação de interfaces bonitas e funcionais;**
+**- 🛠 Introdução ao Front-end, Back-end e Banco de Dados;**
+**- 🔧 Git e GitHub para versionamento de código;**
+**- 📅 Metodologias ágeis como Scrum e Kanban;**
+**- 🌟 Trabalho em equipe, criatividade e resolução de problemas.**
 
 ---
 
