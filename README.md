@@ -16,20 +16,20 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Valinhos**, com inte
 
 ## 💻 Tecnologias e Ferramentas
 
-### Front-End
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) 
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg) 
-![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) 
+### 🎨 Front-End  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30"/>
 
-### Back-End
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) 
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+### 🔧 Back-End  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30"/>
 
-### Ferramentas
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) 
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) 
-![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) 
+### 🛠️ Ferramentas  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30"/>
 
 ---
 
