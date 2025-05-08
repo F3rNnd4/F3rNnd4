@@ -7,12 +7,12 @@ Aqui você vai conhecer um pouco sobre mim, minhas habilidades, interesses e red
 
 ## ✨ Um Pouco Sobre Mim
 
-**🖤 Prefiro que me chamem de Fer;**
-**🎂 Tenho 17 anos;**
-**💻 Sou estudante de Desenvolvimento de Sistemas no SENAI Valinhos;**
-**🎮 Adoro jogar com meus amigos nos momentos livres;**
-**🎵 Sou apaixonada por música – ela sempre me acompanha!;**
-**🍳 Amo cozinhar e testar receitas novas;**
+- **🖤 Prefiro que me chamem de Fer;**
+- **🎂 Tenho 17 anos;**
+- **💻 Sou estudante de Desenvolvimento de Sistemas no SENAI Valinhos;**
+- **🎮 Adoro jogar com meus amigos nos momentos livres;**
+- **🎵 Sou apaixonada por música – ela sempre me acompanha!;**
+- **🍳 Amo cozinhar e testar receitas novas;**
 
 ---
 
