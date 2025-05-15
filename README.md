@@ -7,7 +7,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Valinhos**, com inte
 
 ## 👩‍💻 Sobre Mim
 
-- 🎓 2º semestre de Desenvolvimento de Sistemas – SENAI Valinhos  
+- 🎓 3º semestre de Desenvolvimento de Sistemas – SENAI Valinhos  
 - 💡 Interesse por Back-End, banco de dados e criação de APIs  
 - 🎮 Gosto de jogos online, música e experimentar receitas novas  
 - 📈 Em constante aprendizado e evolução  
@@ -17,6 +17,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Valinhos**, com inte
 ## 💻 Tecnologias e Ferramentas
 
 ### 🎨 Front-End  
+<div display=flex>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30"/>
@@ -30,6 +31,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Valinhos**, com inte
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30"/>
+</div>
 
 ---
 
