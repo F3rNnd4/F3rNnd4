@@ -7,9 +7,9 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Valinhos**, com inte
 
 ## 👩‍💻 Sobre Mim
 
-- 🎓 3º semestre de Desenvolvimento de Sistemas – SENAI Valinhos  
+- 🎓 4º semestre de Desenvolvimento de Sistemas – SENAI Valinhos  
 - 💡 Interesse por Back-End, banco de dados e criação de APIs  
-- 🎮 Gosto de jogos online, música e experimentar receitas novas  
+- 🎮 Gosto de jogos, livros, música e experimentar receitas novas  
 - 📈 Em constante aprendizado e evolução  
 
 ---
